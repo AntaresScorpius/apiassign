@@ -1,0 +1,6 @@
+.card {
+  width: 300px;
+  height: 350px;
+  border: 2px solid cornflowerblue;
+  border-radius: 5px;
+}
